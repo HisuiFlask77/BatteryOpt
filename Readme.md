@@ -49,9 +49,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ##Contact
 Your Name - your.email@example.com
 
-Project Link: https://github.com/username/repo
-
-You can customize the content of the `README.md` file according to your project's requirements, including the project title, installation instructions, usage examples, contributing guidelines, and contact information.
-Public code references from 2 repositories
-
 
