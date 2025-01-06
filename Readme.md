@@ -27,3 +27,31 @@ npm install
 # Run the project
 npm start
 
+
+## Usage
+Instructions and examples for using the project.
+
+bash
+# Run the project
+npm start
+Public code references from 2 repositories
+##Contributing
+Guidelines for contributing to the project.
+
+Fork the repository
+Create a new branch (git checkout -b feature/your-feature)
+Commit your changes (git commit -m 'Add some feature')
+Push to the branch (git push origin feature/your-feature)
+Open a pull request
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+##Contact
+Your Name - your.email@example.com
+
+Project Link: https://github.com/username/repo
+
+You can customize the content of the `README.md` file according to your project's requirements, including the project title, installation instructions, usage examples, contributing guidelines, and contact information.
+Public code references from 2 repositories
+
+
